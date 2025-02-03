@@ -50,11 +50,9 @@ If you would like the open `tutorial.ipynb` located in the `tutorials` folder as
 ```bash
 pip install jupyter
 ```
+
 ```bash
-cd tutorials/
-```
-```bash
-jupyter notebook tutorial.ipynb
+jupyter notebook P1_bisect_test_cases.ipynb
 ```
 ---
 
