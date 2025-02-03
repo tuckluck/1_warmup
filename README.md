@@ -8,6 +8,6 @@ bisect_warmup("3*x=3",0,2)
 
 I used chatGPT while creating this function to learn how to read symbols from equation strings, to use the sympy library and to perform calculations by subbing in a number for a variable.
 
-'''bash
+```bash
 yo yo
-'''
+```
