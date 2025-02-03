@@ -10,12 +10,12 @@ I used chatGPT while creating this function to learn how to read symbols from eq
 
 To install this package, please begin by setting up a conda environment (mamba also works):
 ```bash
-conda create --name bisection-method-env python=3.12
+conda create --name tl_bisection-env python=3.12
 ```
 Once the environment has been created, activate it:
 
 ```bash
-conda activate bisection-method-env
+conda activate tl_bisection-env
 ```
 Double check that python is version 3.12 in the environment:
 ```bash
